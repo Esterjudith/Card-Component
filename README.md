@@ -1,6 +1,6 @@
 # Card-Component
 
-## This project is created using:
+## This project was created using:
 
  * html
  * css
